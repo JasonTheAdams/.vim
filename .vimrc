@@ -13,6 +13,9 @@ Plugin 'chriskempson/vim-tomorrow-theme'
 Plugin 'tpope/vim-surround'
 Plugin 'mattn/emmet-vim'
 Plugin 'jelera/vim-javascript-syntax'
+Plugin 'scrooloose/syntastic'
+"Plugin 'vim-scripts/phpfolding.vim'
+Plugin 'shawncplus/phpcomplete.vim'
 
 call vundle#end()
 filetype plugin indent on
